@@ -1,0 +1,23 @@
+.input-search__field {
+    border: none;
+    background: #008080 ;
+    border-radius:4%;
+    width: 220px;
+    height: 30px;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    font-size: 16px;
+}
+
+.input-search__field::placeholder {
+    color: white;
+}
+
+.input-search__field:active,
+.input-search__field:focus,
+.input-search__field:hover
+{
+    outline: none;
+}
+

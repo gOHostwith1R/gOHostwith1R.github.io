@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    background: rgb(174,242,227);
+    background: linear-gradient(90deg, rgba(174,242,227,1) 0%, rgba(203,249,229,0.5074404761904762) 47%, rgba(196,250,227,1) 100%);
+    font-family: 'Roboto', sans-serif;
+}
+
+.search {
+    margin-top: 10px;
+}
+
+.search-filter {
+    display: flex;
+    flex-direction: row;
+    margin-left: 500px;
+    margin-bottom: 20px;
+}
+
+.click-user {
+    text-align: center;
+}
+
