@@ -5,6 +5,10 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+.app {
+
+}
+
 .search {
     margin-top: 10px;
 }
@@ -12,7 +16,7 @@ body {
 .search-filter {
     display: flex;
     flex-direction: row;
-    margin-left: 500px;
+    justify-content: center;
     margin-bottom: 20px;
 }
 
